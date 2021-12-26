@@ -21,5 +21,9 @@ return ($a * $b);
 }
 ```
 ##__Experience__
+##__Education__
+*https://htmlacademy.ru/
+##__English__
+A2
 
 
