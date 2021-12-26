@@ -24,6 +24,6 @@ return ($a * $b);
 ##__Education__
 *https://htmlacademy.ru/
 ##__English__
-A2
+read only
 
 
